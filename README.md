@@ -10,6 +10,16 @@ Modeling: Implements machine learning algorithms such as Random Forest, Support 
 Evaluation: Uses metrics like Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE) to evaluate model performance.
 Visualization: Provides visual insights through graphs and charts to understand traffic patterns and predictions.
 
+Installation
+Clone the repository:
+git clone https://github.com/ayush/TrafficPrediction_Proj.git
+
+Navigate to the project directory:
+cd traffic-prediction
+
+Install the required dependencies:
+pip install -r requirements.txt
+
 Usage
 Prepare your dataset and place it in the data directory.
 Run the preprocessing script:
